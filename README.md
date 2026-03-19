@@ -1,2 +1,9 @@
-# **Aprender-a-sumar**
-En este supositorio solo vamos a hacer un ejemplo para aprender a sumar 
+# **Aprender-a-sumar🙈**
+
+# *Integrantes*
+## **Fabio Bravo**
+### Descripcion
+> soy un joven estudiante de ingenieria industrial de tercer semestre que no tiene carnet
+## **Mariana Aguirre**
+### Descripcion
+> vivo en la pm
